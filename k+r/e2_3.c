@@ -1,6 +1,6 @@
 /*
 Author: Eric Latham
-My (polished) solution to K+R exercise 2-3:
+My solution to K+R exercise 2-3:
     Write a function my_htoi(s), which converts a string of hexadecimal digits
     (including an optional 0x or 0X) into its equivalent integer value.
     The allowable digits are 0-9, a-f, and A-F.

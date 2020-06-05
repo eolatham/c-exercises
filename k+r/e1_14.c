@@ -1,6 +1,6 @@
 /*
 Author: Eric Latham
-My (polished) solution to K+R exercise 1-14:
+My solution to K+R exercise 1-14:
     Write a program to print a histogram of the frequencies
     of different characters in its input.
 */

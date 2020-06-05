@@ -1,6 +1,6 @@
 /*
 Author: Eric Latham
-My (polished) solution to K+R exercise 1-8:
+My solution to K+R exercise 1-8:
     Write a program to count blanks, tabs, and newlines.
 */
 

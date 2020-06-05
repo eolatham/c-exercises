@@ -1,6 +1,6 @@
 /*
 Author: Eric Latham
-My (polished) solution to K+R exercise 2-4:
+My solution to K+R exercise 2-4:
     Write an alternative version of squeeze(s1, s2) that deletes each
     character in s1 that matches any character in the string s2.
 */
