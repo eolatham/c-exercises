@@ -1,14 +1,18 @@
-# **C Exercises**
+# C Exercises
 
-## **`k+r/`**
+#### Author: Eric Latham
 
-### **Description**
+#### Email: ericoliverlatham@gmail.com
 
-This directory contains my solutions to exercises listed in the book, [*The C Programming Language, 2nd Edition* by Brian Kernighan and Dennis Ritchie](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628).
+---
+
+## Description
+
+The `k+r/` directory contains my solutions to exercises listed in the book, [*The C Programming Language, 2nd Edition* by Brian Kernighan and Dennis Ritchie](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628).
 
 Source code files containing my solutions are named in the format `e<chapter number>_<exercise number>.c`, and program descriptions are included at the top of each solution.
 
-### **Compiling**
+## Compiling
 
 If you're running a [linux](https://en.wikipedia.org/wiki/Linux) system with [gcc](https://gcc.gnu.org/) and [make](https://www.gnu.org/software/make/) installed, the provided `Makefile` is all you need.
 
